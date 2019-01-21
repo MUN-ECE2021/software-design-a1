@@ -9,7 +9,7 @@ public class TicTacToeTest {
 
     @Test
     public void FeedInput() {
-    	String [] start = {"y\nn\n0\n0\n1\n1\n0\n2"};
+    	String [] start = {"y\nn\n0\n0\n0\n1\n0\n2\n1\n0\n1\n1\n1\n2\n2\n0\n2\n1\n2\n2"};
     	ByteArrayInputStream in = new ByteArrayInputStream(start[0].getBytes());
     	System.setIn(in);
     	
