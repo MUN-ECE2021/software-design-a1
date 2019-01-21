@@ -3,10 +3,6 @@
 // properties->java build path -> add library
 
 import org.junit.Test;
-
-//import static TicTacToeApplication.main;
-import static org.junit.Assert.*;
-
 import java.io.ByteArrayInputStream;
 
 public class TicTacToeTest {
