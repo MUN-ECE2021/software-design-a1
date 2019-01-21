@@ -1,4 +1,4 @@
-// Input stream test for TicTacToe assign
+// Input stream test for TicTacToe assign - MD
 // remember to add junit libraries to your project 
 // properties->java build path -> add library
 
